@@ -1,0 +1,10 @@
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\bin\Debug\TypingTutor.exe.config
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\bin\Debug\TypingTutor.exe
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\bin\Debug\TypingTutor.pdb
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\obj\Debug\TypingTutor.csprojAssemblyReference.cache
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\obj\Debug\TypingTutor.Form1.resources
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\obj\Debug\TypingTutor.Properties.Resources.resources
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\obj\Debug\TypingTutor.csproj.GenerateResource.cache
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\obj\Debug\TypingTutor.csproj.CoreCompileInputs.cache
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\obj\Debug\TypingTutor.exe
+B:\Projects\DotNet\WindowsForm\TypingTutor\TypingTutor\obj\Debug\TypingTutor.pdb
